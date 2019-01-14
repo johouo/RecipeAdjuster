@@ -1,21 +1,21 @@
 # RecipeAdjuster
 
-Download the file from matlab onto your computer
+Download the file from Github onto your computer
 
 Open the file in matlab
 
-run the app 
+Run the app 
 
-choose a recipe 
+Choose a recipe
 
-enter protein percentage 
+Enter protein percentage
 
-calculate the range of values for carb % by clicking the button
+Calculate the range of values for carb % by clicking the button
 
 Choose a carb % between the outputted range
 
 Hit the calculate button and it will output the quantity of ingredients you should use
 
-also you can right click on the file in current folder and clcik open to see the code in app designer
+Also, you can right click on the file in current folder and click open to see the code in app designer
 
-no external libraries needed
+No external libraries needed
